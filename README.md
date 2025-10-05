@@ -12,3 +12,6 @@ The analysis contains:
   Deep learning-based survival models.
 3. Models analysis and comparisons.
 4. Conclusions
+
+R code and graphs:
+https://RonyZgit.github.io/SurvivalProject/R_code_analysis_of_PBC_dataset.html
